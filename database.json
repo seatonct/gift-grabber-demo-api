@@ -1,0 +1,52 @@
+{
+  "types": [
+    {
+      "id": 1,
+      "name": "Christmas"
+    },
+    {
+      "id": 2,
+      "name": "Hanukkah"
+    },
+    {
+      "id": 3,
+      "name": "Birthday"
+    },
+    {
+      "id": 4,
+      "name": "Bar/Bat Mitzvah"
+    },
+    {
+      "id": 5,
+      "name": "Quinceañera"
+    },
+    {
+      "id": 6,
+      "name": "Wedding Registry"
+    },
+    {
+      "id": 7,
+      "name": "Bridal Shower"
+    },
+    {
+      "id": 8,
+      "name": "Honey-Do"
+    },
+    {
+      "id": 9,
+      "name": "Housewarming"
+    },
+    {
+      "id": 10,
+      "name": "Baby Shower"
+    },
+    {
+      "id": 11,
+      "name": "Other"
+    }
+  ],
+  "users": [],
+  "lists": [],
+  "items": [],
+  "claims": []
+}
